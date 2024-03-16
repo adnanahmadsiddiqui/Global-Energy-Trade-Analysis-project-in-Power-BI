@@ -38,17 +38,6 @@ To explore the Global Energy Trade Analysis Power BI report, follow these steps:
 
 5. <b>Interact with the Report:</b> Once the report is open, you can interact with the visualizations, apply filters, and explore the data based on the business queries mentioned above.
 
-## Screenshots
-
-![](Images/stats_dashboard.png)
-
-
-![](Images/country_dashboard.png)
-
-
-![](Images/category_details.png)
-
-
 
 
 
